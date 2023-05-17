@@ -1,3 +1,4 @@
+#Requires -RunAsAdministrator
 <#
 .SYNOPSIS
     Copy Chrome bookmarks from one PC to another based on matching user profiles.
